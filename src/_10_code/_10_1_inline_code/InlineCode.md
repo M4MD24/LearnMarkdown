@@ -1,0 +1,1 @@
+Result of `System.out.print("Hello Developers");` equals “Hello Developers”
