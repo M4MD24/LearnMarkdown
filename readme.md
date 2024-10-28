@@ -1,5 +1,7 @@
 # _Readme File_
 
+## Learning
+
 1. **[Sections](src/_1_sections)**
     1. [First Solution for Some Sections](src/_1_sections/FirstSolutionForSomeSections.markdown)
     2. [Second Solution for Some Sections](src/_1_sections/SecondSolutionForSomeSections.md)
@@ -37,3 +39,14 @@
 10. **[Code](src/_10_code)**
     1. [Inline Code](src/_10_code/_10_1_inline_code/InlineCode.md)
     2. [Block Code](src/_10_code/_10_2_block_code/BlockCode.md)
+
+---
+
+## Resources
+
+### Websites
+
+- [Satr](https://satr.codes)
+- [W3Schools](https://www.w3schools.com)
+- [Youtube](https://youtube.com)
+- [Nullexia Blogs](https://m3md69.github.io/NULLEXIA-Blogs/markdown-language-content.html)
