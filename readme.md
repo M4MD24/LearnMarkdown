@@ -49,4 +49,3 @@
 - [Satr](https://satr.codes)
 - [W3Schools](https://www.w3schools.com)
 - [Youtube](https://youtube.com)
-- [Nullexia Blogs](https://m3md69.github.io/NULLEXIA-Blogs/markdown-language-content.html)
